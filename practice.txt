@@ -1,4 +1,3 @@
 echo "i love devops spo much"
 echo "i need to practice more"
 echo "i am studying debugging
-"
